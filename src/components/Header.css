@@ -1,0 +1,20 @@
+.jumbotron {
+  width: 84em;
+  height: 10em;
+  color: #575a6c;
+  flex-direction: column;
+  font-size: 16px;
+  text-align: center;
+  margin-left: 5em;
+}
+
+.group {
+  display: flex;
+  justify-content: center;
+}
+
+.separator {
+  color: #3686C9;
+  font-weight: bold;
+  font-size: 30px;
+}
